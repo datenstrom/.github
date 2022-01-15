@@ -4,7 +4,7 @@
 
 Hier ein Überblick über unsere Richtlinien:
 
-- Schreibe deine Frage in den Titel, wenn du eine Frage stellen möchtest,
+- Schreibe deine Frage in den Titel, wenn du eine Frage stellen möchtest.
 - Erkläre wie man den Fehler reproduzieren kann, wenn du einen Fehler melden möchtest.
 - Es gibt viele Möglichkeiten mitzumachen, wenn du mit uns zusammenarbeiten möchtest.
 
