@@ -2,7 +2,7 @@
 
 # Datenstrom contributing guidelines
 
-Here's an overview of our guidelines:
+Here's a quick overview of our guidelines:
 
 - Write your question in the title, if you want to ask a question.
 - Explain how to reproduce the bug, if you want to report a bug.
