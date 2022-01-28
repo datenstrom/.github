@@ -2,7 +2,7 @@
 
 # Datenstroms riktlinjer för samarbete
 
-Här är en översikt över våra riktlinjer:
+Här är en snabb översikt över våra riktlinjer:
 
 - Skriv din fråga i rubriken, om du vill ställa en fråga.
 - Förklara hur man återskapar felet, om du will rapportera ett fel.
