@@ -9,3 +9,5 @@ Here's a quick overview of our guidelines:
 - Improve available features, if you want to work with us.
 
 Ask questions, report bugs and share your experiences. We are interested in what you want to do and which problems you have. The more we know the better we can help. Our community is a place to help each other. Where you can ask and answer questions. Most answers are provided by community members, just like you. [Read the contributing guidelines](https://datenstrom.se/yellow/help/contributing-guidelines).
+
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
