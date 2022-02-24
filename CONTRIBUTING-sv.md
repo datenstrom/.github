@@ -6,7 +6,7 @@ Här är en snabb översikt över våra riktlinjer:
 
 - Skriv din fråga i rubriken, om du vill ställa en fråga.
 - Förklara hur man återskapar felet, om du will rapportera ett fel.
-- Förbättra befintliga funktionerna, om du vill jobba med oss.
+- Förbättra tillgängliga tillägg, om du vill jobba med oss.
 
 Ställ frågor, rapportera fel och utbyt erfarenheter. Vi är intresserade av vad du vill göra och vilka problem du har. Ju mer vi vet desto bättre kan vi hjälpa till. Vårt community är en plats att hjälpa varandra. Där du kan ställa och svara på frågor. De flesta av svaren tillhandahålls av community-medlemmar, precis som du. [Läs riktlinjerna för samarbete](https://datenstrom.se/sv/yellow/help/contributing-guidelines).
 
