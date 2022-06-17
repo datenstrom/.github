@@ -4,7 +4,7 @@
 
 Här är en snabb översikt över våra riktlinjer:
 
-- Skriv din fråga i rubriken, om du vill ställa en fråga.
+- Skriv frågan i rubriken, om du vill ställa en fråga.
 - Förklara hur man återskapar felet, om du will rapportera ett fel.
 - Förbättra tillgängliga tillägg, om du vill jobba med oss.
 
