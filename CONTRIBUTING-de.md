@@ -8,6 +8,6 @@ Hier ein kurzer Überblick über unsere Richtlinien:
 - Erkläre wie man den Fehler reproduziert, wenn du einen Fehler melden möchtest.
 - Verbessere die vorhandenen Erweiterungen, wenn du mit uns zusammenarbeiten möchtest.
 
-Stelle Fragen, melde Fehler und tausche Erfahrungen aus. Es interessiert uns was du machen möchtest und welche Probleme du hast. Unsere Community ist ein Ort um sich gegenseitig zu helfen. Wo man Fragen stellen und beantworten kann. Die meisten Antworten werden von Community-Mitgliedern, so wie du, bereitgestellt. [Lies die Richtlinien zum Mitmachen](https://datenstrom.se/de/yellow/help/contributing-guidelines).
+Stelle Fragen, melde Fehler und tausche Erfahrungen aus. Es interessiert uns was du machen möchtest und welche Probleme du hast. Unsere Community ist ein Ort um sich gegenseitig zu helfen. Wo man Fragen stellen und beantworten kann. Die meisten Antworten werden von Community-Mitgliedern, so wie du, bereitgestellt. [Weitere Informationen zum Mitmachen](https://datenstrom.se/de/yellow/help/contributing-guidelines).
 
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).
