@@ -4,7 +4,7 @@
 
 Here's a quick overview of our guidelines:
 
-- Write your question in the title, if you want to ask a question.
+- Write the question in the title, if you want to ask a question.
 - Explain how to reproduce the bug, if you want to report a bug.
 - Improve the available extensions, if you want to work with us.
 
