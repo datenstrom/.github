@@ -1,5 +1,3 @@
-<p align="right"><a href="CONTRIBUTING-de.md">Deutsch</a> &nbsp; <a href="CONTRIBUTING.md">English</a> &nbsp; <a href="CONTRIBUTING-sv.md">Svenska</a></p>
-
 # Datenstrom contributing guidelines
 
 Here's a quick overview of our guidelines:
